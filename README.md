@@ -2,6 +2,9 @@
 Raspberry Pi で音源方向を推定するパッケージ(予定)  
 今のところサンプルを取るだけの機能。
 
+## dependencies
+https://github.com/joan2937/pigpio
+
 ## install
 ```shell
 $ git clone https://github.com/Azicode/find_sound_source.git
